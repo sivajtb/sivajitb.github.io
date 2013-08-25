@@ -5,7 +5,7 @@
 	<!-- endIndex  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>3</endIndex>
 	<item sdImg="http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg" hdImg="http://rokudev.roku.com/rokudev/examples/videoplayer/images/BenjaminZander.jpg">
-		<title>Mirchi</title>
+		<title>Patathu Yannai</title>
 		<contentId>10041</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -13,14 +13,14 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://50.22.217.226/movies_telugu/movie_high/1887.mp4?st=Em1dXESU04fXSiW1tEn1KQ&amp;e=1377602752</streamUrl>
+			<streamUrl>http://184.173.146.51/movies_tamil/movie_high/1699.mp4?st=sxSNMR0dNo9Ky5-51GJUlw&amp;e=1377614895</streamUrl>
 		</media>
 		<synopsis>Benjamin Zander has two infectious passions: classical music, and helping us all realize our untapped love for it -- and by extension, our untapped love for all new possibilities, new experiences, new connections.</synopsis>
 		<genres>Inspiration</genres>
 		<runtime>1246</runtime>
 	</item>	
 	<item sdImg="http://rokudev.roku.com/rokudev/examples/videoplayer/images/CynthiaSchneider.jpg" hdImg="http://rokudev.roku.com/rokudev/examples/videoplayer/images/CynthiaSchneider.jpg">
-		<title>Cynthia Schneider: The surprising spread of "Idol" TV</title>
+		<title>Singam 2</title>
 		<contentId>10042</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -28,7 +28,7 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://video.ted.com/talks/podcast/CynthiaSchneider_2009G_480.mp4</streamUrl>
+			<streamUrl>http://173.192.200.72/movies_tamil/movie_high/1692.mp4?st=IHEHGjFhep-qgPYNp2cepw&amp;e=1377615002</streamUrl>
 		</media>
 		<synopsis>Cynthia Schneider looks at two international 'American Idol'-style shows -- one in Afghanistan, and one in the United Arab Emirates -- and shows the surprising effect that these reality-TV competitions are creating in their societies.</synopsis>
 		<genres>Inspiration</genres>
