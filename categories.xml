@@ -10,11 +10,13 @@
 	</category>
 
 	<category title="Remote" description="TED Talks on Entertainment" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Entertainment.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Entertainment.png">
+		<categoryLeaf title="Music" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/music.xml"/>
 		<categoryLeaf title="Inspiration" description="" feed="http://sivajtb.github.io/sivajitb.github.io/inspiration.xml"/>
 	</category>
 
 	<category title="Local" description="TED Talks on Design" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
-		<categoryLeaf title="Inspiration" description="" feed="http://192.168.0.2/inspiration.xml"/>
+		<categoryLeaf title="Creativity" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/creativity.xml"/>
+		<categoryLeaf title="Design" description="" feed="http://192.168.0.2/inspiration.xml"/>
 	</category>
 
  </categories>
