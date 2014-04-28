@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <categories>
 
-	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <!-- banner_ad: optional element which display an at the top level category screen -->
 	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
 	  
 	<category title="Technology" description="TED Talks on Technology" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png">
