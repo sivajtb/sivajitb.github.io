@@ -17,6 +17,6 @@
 	<category title="Design" description="TED Talks on Design" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
 		<categoryLeaf title="Creativity" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/creativity.xml"/>
 		<categoryLeaf title="Design" description="" feed="http://192.168.2.3/inspiration.xml"/>
-	</category>
+	</category> 
 
  </categories>
