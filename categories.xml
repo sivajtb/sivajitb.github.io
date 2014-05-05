@@ -14,7 +14,7 @@
 		<categoryLeaf title="Inspiration" description="" feed="http://sivajtb.github.io/sivajitb.github.io/inspiration.xml"/>
 	</category>
 
-	<category title="Design" description="TED Talks on Design" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
+	<category title="Design" description="TED Talsks on Design" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
 		<categoryLeaf title="Creativity" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/creativity.xml"/>
 		<categoryLeaf title="Design" description="" feed="http://192.168.2.3/inspiration.xml"/>
 	</category> 
